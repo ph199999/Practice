@@ -1,1 +1,3 @@
-hello,my first git!!!	
+hello,my first demo!
+hello,my second demo!
+
